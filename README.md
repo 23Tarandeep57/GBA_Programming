@@ -6,3 +6,4 @@ https://en.wikipedia.org/wiki/Software_design_pattern
 https://en.wikipedia.org/wiki/Anti-pattern
 http://worsethanfailure.com/Default.aspx
 http://www.rinkworks.com/stupid/cs_programming.shtml
+https://en.wikipedia.org/wiki/Bresenham's_line_algorithm
